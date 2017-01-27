@@ -1,0 +1,2 @@
+# FortuneTellerRK
+Homework Week1
